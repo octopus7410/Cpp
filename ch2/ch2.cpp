@@ -36,10 +36,10 @@ void main(void)
 		case 1:
 			ch2_1();
 			break;
-/*		case 2:
-			ch1_2();
+		case 2:
+			ch2_2();
 			break;
-		case 3:
+/*		case 3:
 			ch1_3();
 			break;
 		case 4:
